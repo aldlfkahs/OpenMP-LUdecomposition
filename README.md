@@ -1,5 +1,5 @@
 # LU-decomposition by using OpenMP
-This project is for studying parallel computing using openMP. I made code parallel especially in for loop. I tried to optimize parallelism using such as 'nowait' or 'lastprivate'. Through the studying this project, I could conclude that more core make faster execution but parallel efficiency decreases.
+This project is for studying parallel computing using openMP. I made code parallel especially in for loop. I tried to optimize parallelism using such as 'nowait' or 'lastprivate'. Through the studying this project, I could conclude that more core make faster execution but parallel efficiency decreases. To see the detailed explanation, please click [here](https://aldlfkahs.github.io/Portfolio/OpenMP%20report.pdf).
 
 This program should be executed in multicore system. 
 
